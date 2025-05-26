@@ -3,4 +3,5 @@
 calculator in dark and light mode .
 
 
-![screencapture-localhost-5173-2025-05-26-12_23_39](https://github.com/user-attachments/assets/c3c0e49a-0e16-48f9-8bd6-dacee58a3841)
+
+![screencapture-localhost-5173-2025-05-26-12_28_32](https://github.com/user-attachments/assets/e143e792-bfb1-4103-827f-6ce91097ebc6)
